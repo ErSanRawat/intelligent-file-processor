@@ -1,0 +1,8 @@
+# Require @sanrawat/backend to review all Java code
+/src/main/java/sanrawat/backend
+
+# Require @sanrawat/frontend for frontend files (example)
+src/main/resources/static/ @sanrawat/frontend
+
+# Default owners for everything else
+* @sanrawat/owner
