@@ -1,0 +1,9 @@
+
+# Require @sanrawat/frontend for frontend files
+src/main/resources/static/ @sanrawat/frontend
+
+# Java backend owners
+/src/main/java/ @ErSanRawat
+
+# Default owner
+* @ErSanRawat
